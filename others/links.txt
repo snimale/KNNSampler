@@ -1,0 +1,2 @@
+-> t-SNE : https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
+-> BH-tSNE : https://github.com/dominiek/python-bhtsne/blob/master/bhtsne/__init__.py (wrapper)
