@@ -23,7 +23,7 @@ setup(
     license="MIT",
     long_description=long_description,
     packages=find_packages(),
-    install_requires=['numpy', 'pandas', 'sklearn', 'matplotlib'],
+    install_requires=['numpy', 'pandas', 'sklearn'],
     keywords=['python', 'K-NN', 'Sampling', 'Size reduction', 'Optimization', 'knn sampler'],
     classifiers=[
         "License :: OSE Approved :: MIT License",
