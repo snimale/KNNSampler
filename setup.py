@@ -26,7 +26,7 @@ setup(
     install_requires=['numpy', 'pandas', 'sklearn'],
     keywords=['python', 'K-NN', 'Sampling', 'Size reduction', 'Optimization', 'knn sampler'],
     classifiers=[
-        "License :: OSE Approved :: MIT License",
+        "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3.10",
         "Operating System :: OS Independent"
     ]
